@@ -1,0 +1,11 @@
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.deps.json
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.dll
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.pdb
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.AssemblyInfoInputs.cache
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.AssemblyInfo.cs
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.csproj.CoreCompileInputs.cache
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.dll
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\refint\DDDWorkShop.ValueObjects.dll
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.pdb
+D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\ref\DDDWorkShop.ValueObjects.dll

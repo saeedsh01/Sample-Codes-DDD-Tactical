@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DDDWorkShop.ValueObjectsTestConsole/1.0.0": {
+        "dependencies": {
+          "DDDWorkShop.ValueObjects": "1.0.0"
+        },
+        "runtime": {
+          "DDDWorkShop.ValueObjectsTestConsole.dll": {}
+        }
+      },
+      "DDDWorkShop.ValueObjects/1.0.0": {
+        "runtime": {
+          "DDDWorkShop.ValueObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDWorkShop.ValueObjectsTestConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWorkShop.ValueObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
