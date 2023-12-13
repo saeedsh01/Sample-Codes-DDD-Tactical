@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DDDWorkShop.ValueObjectsTestConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d921287722b702e9494852208fad64de1645e9ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("DDDWorkShop.ValueObjectsTestConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DDDWorkShop.ValueObjectsTestConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

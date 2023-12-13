@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.ValueObjects", "DDDWorkShop.ValueObjects\DDDWorkShop.ValueObjects.csproj", "{1CC242D2-0853-4F2C-9363-9CBA07994483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.ValueObjects", "DDDWorkShop.ValueObjects\DDDWorkShop.ValueObjects.csproj", "{1CC242D2-0853-4F2C-9363-9CBA07994483}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.ValueObjectsTestConsole", "DDDWorkShop.ValueObjectsTestConsole\DDDWorkShop.ValueObjectsTestConsole.csproj", "{D2206BA9-F00D-4280-8C81-0F245140230C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.ValueObjectsTestConsole", "DDDWorkShop.ValueObjectsTestConsole\DDDWorkShop.ValueObjectsTestConsole.csproj", "{D2206BA9-F00D-4280-8C81-0F245140230C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -9,3 +9,15 @@ D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkSh
 D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\refint\DDDWorkShop.ValueObjects.dll
 D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.pdb
 D:\SampleProject\DDDWorkShop\DDDWorkShop.ValueObjects\obj\Debug\net8.0\ref\DDDWorkShop.ValueObjects.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.deps.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.AssemblyInfoInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.AssemblyInfo.cs
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.csproj.CoreCompileInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.sourcelink.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\refint\DDDWorkShop.ValueObjects.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\ref\DDDWorkShop.ValueObjects.dll

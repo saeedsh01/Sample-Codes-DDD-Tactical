@@ -8,9 +8,14 @@ namespace DDDWorkShop.ValueObjects.MicroTypes
 {
     public class OvertimeHours : BaseValueObject<OvertimeHours>
     {
-        private readonly Hours Hours;
+        public readonly Hours Hours;
         public OvertimeHours(Hours hours)
         {
+            if (hours.Amount > 60)
+            {
+                hours = new Hours(60);
+            }
+
             this.Hours = hours;
         }
 

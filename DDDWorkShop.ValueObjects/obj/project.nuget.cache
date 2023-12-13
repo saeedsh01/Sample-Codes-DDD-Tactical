@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPdgYhjlm1ihFDp7VuTj+73E8Kn2T8ousPFbOp1trl99kE4k/dbKs4yR8L9k9D+EkSxc0hBLQMSR6C2HXvC6wg==",
+  "dgSpecHash": "qlYzZs8bqSorZetEAdO4AlyafG+6HkhPYz91GLj2oGQMaJUu6DSmPezDSqsSp3QWWPZqYA98S6nAaJbEAeZSkQ==",
   "success": true,
-  "projectFilePath": "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj",
+  "projectFilePath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

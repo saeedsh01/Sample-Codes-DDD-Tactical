@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjectsTestConsole\\DDDWorkShop.ValueObjectsTestConsole.csproj": {}
+    "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjectsTestConsole\\DDDWorkShop.ValueObjectsTestConsole.csproj": {}
   },
   "projects": {
-    "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjectsTestConsole\\DDDWorkShop.ValueObjectsTestConsole.csproj": {
+    "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjectsTestConsole\\DDDWorkShop.ValueObjectsTestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjectsTestConsole\\DDDWorkShop.ValueObjectsTestConsole.csproj",
+        "projectUniqueName": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjectsTestConsole\\DDDWorkShop.ValueObjectsTestConsole.csproj",
         "projectName": "DDDWorkShop.ValueObjectsTestConsole",
-        "projectPath": "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjectsTestConsole\\DDDWorkShop.ValueObjectsTestConsole.csproj",
+        "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjectsTestConsole\\DDDWorkShop.ValueObjectsTestConsole.csproj",
         "packagesPath": "C:\\Users\\SH\\.nuget\\packages\\",
-        "outputPath": "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjectsTestConsole\\obj\\",
+        "outputPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjectsTestConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj": {
-                "projectPath": "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj"
+              "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj": {
+                "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj"
               }
             }
           }
@@ -49,6 +49,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,14 +81,14 @@
         }
       }
     },
-    "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj": {
+    "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj",
+        "projectUniqueName": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj",
         "projectName": "DDDWorkShop.ValueObjects",
-        "projectPath": "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj",
+        "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjects\\DDDWorkShop.ValueObjects.csproj",
         "packagesPath": "C:\\Users\\SH\\.nuget\\packages\\",
-        "outputPath": "D:\\SampleProject\\DDDWorkShop\\DDDWorkShop.ValueObjects\\obj\\",
+        "outputPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.ValueObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
