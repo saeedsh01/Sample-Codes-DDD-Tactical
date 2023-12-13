@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DDDWorkShop.ValueObjectsTestConsole.Migrations
 {
     [DbContext(typeof(PersonContext))]
-    [Migration("20231213123558_changePersonFullName")]
-    partial class changePersonFullName
+    [Migration("20231213141748_initBase")]
+    partial class initBase
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -32,13 +32,36 @@ namespace DDDWorkShop.ValueObjectsTestConsole.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("PersonId"));
 
-                    b.Property<string>("PersonFullName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.HasKey("PersonId");
 
                     b.ToTable("People");
+                });
+
+            modelBuilder.Entity("DDDWorkShop.ValueObjectsTestConsole.person", b =>
+                {
+                    b.OwnsOne("DDDWorkShop.ValueObjectsTestConsole.FullName", "FullName", b1 =>
+                        {
+                            b1.Property<int>("PersonId")
+                                .HasColumnType("int");
+
+                            b1.Property<string>("FirstName")
+                                .IsRequired()
+                                .HasColumnType("nvarchar(max)");
+
+                            b1.Property<string>("LastName")
+                                .IsRequired()
+                                .HasColumnType("nvarchar(max)");
+
+                            b1.HasKey("PersonId");
+
+                            b1.ToTable("People");
+
+                            b1.WithOwner()
+                                .HasForeignKey("PersonId");
+                        });
+
+                    b.Navigation("FullName")
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }

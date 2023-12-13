@@ -30,7 +30,7 @@ namespace DDDWorkShop.ValueObjectsTestConsole
     public class person
     {
         public int PersonId { get; set; }
-        public FullName PersonFullName { get; set; }
+        public FullName FullName { get; set; }
     }
     public class PersonContext : DbContext
     {
@@ -45,8 +45,8 @@ namespace DDDWorkShop.ValueObjectsTestConsole
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<person>().OwnsOne(c => c.FullName);
-            modelBuilder.Entity<person>().Property(c => c.PersonFullName).HasConversion(c => c.ToString(), d => FullName.CreateFromString(d));
+            modelBuilder.Entity<person>().OwnsOne(c => c.FullName);
+            //modelBuilder.Entity<person>().Property(c => c.FullName).HasConversion(c => c.ToString(), d => FullName.CreateFromString(d));
             base.OnModelCreating(modelBuilder);
 
         }

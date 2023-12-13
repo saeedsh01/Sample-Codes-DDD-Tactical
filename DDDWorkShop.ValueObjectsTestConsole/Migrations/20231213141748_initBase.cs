@@ -5,7 +5,7 @@
 namespace DDDWorkShop.ValueObjectsTestConsole.Migrations
 {
     /// <inheritdoc />
-    public partial class init : Migration
+    public partial class initBase : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -16,7 +16,8 @@ namespace DDDWorkShop.ValueObjectsTestConsole.Migrations
                 {
                     PersonId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    FullName = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    FullName_FirstName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    FullName_LastName = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
