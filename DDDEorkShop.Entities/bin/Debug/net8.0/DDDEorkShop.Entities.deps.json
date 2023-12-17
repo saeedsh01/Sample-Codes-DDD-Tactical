@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DDDEorkShop.Entities/1.0.0": {
+        "runtime": {
+          "DDDEorkShop.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDEorkShop.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

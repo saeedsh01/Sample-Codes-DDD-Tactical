@@ -21,3 +21,15 @@ D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\ne
 D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\refint\DDDWorkShop.ValueObjects.dll
 D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.pdb
 D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\ref\DDDWorkShop.ValueObjects.dll
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.deps.json
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.dll
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\bin\Debug\net8.0\DDDWorkShop.ValueObjects.pdb
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.AssemblyInfoInputs.cache
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.AssemblyInfo.cs
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.csproj.CoreCompileInputs.cache
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.sourcelink.json
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.dll
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\refint\DDDWorkShop.ValueObjects.dll
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\DDDWorkShop.ValueObjects.pdb
+C:\Users\SH\Desktop\BootCamp\Sample-DDD\Sample-Codes-DDD-Tactical\DDDWorkShop.ValueObjects\obj\Debug\net8.0\ref\DDDWorkShop.ValueObjects.dll
