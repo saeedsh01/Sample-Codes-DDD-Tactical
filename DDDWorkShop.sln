@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.ValueObjectsTes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDEorkShop.Entities", "DDDEorkShop.Entities\DDDEorkShop.Entities.csproj", "{7AB2E364-4393-4FDB-A7FD-3633D570A612}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.EntityTestConsole", "DDDWorkShop.EntityTestConsole\DDDWorkShop.EntityTestConsole.csproj", "{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.DomainServices.DoubleDispatch", "DDDWorkShop.DomainServices.DoubleDispatch\DDDWorkShop.DomainServices.DoubleDispatch.csproj", "{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.EntityTestConsole", "DDDWorkShop.EntityTestConsole\DDDWorkShop.EntityTestConsole.csproj", "{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}"
+>>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +39,13 @@ Global
 		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

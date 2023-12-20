@@ -16,6 +16,10 @@ namespace DDDEorkShop.Entities.StatePattern
         {
             return "Off";
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
     }
     public class OffStatus : TvPowerAction
     {
@@ -23,6 +27,10 @@ namespace DDDEorkShop.Entities.StatePattern
         {
             return "On";
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
     }
     public class TV
     {       

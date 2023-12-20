@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DDDEorkShop.Entities.Memento
 {
+<<<<<<< HEAD
     /// <summary>
     /// Sample Memento Pattern
     /// </summary>
@@ -14,6 +15,8 @@ namespace DDDEorkShop.Entities.Memento
         public int ProductCount { get; set; }
         public int Id { get; set; }
     }
+=======
+>>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
     public class Product
     {
         public int id { get; set; }
@@ -31,6 +34,7 @@ namespace DDDEorkShop.Entities.Memento
         {
 
         }
+<<<<<<< HEAD
         public decimal GetTotalPrice()
         {
             return 0.0m;
@@ -45,4 +49,13 @@ namespace DDDEorkShop.Entities.Memento
     }
 
 
+=======
+        public int GetTotalPrice()
+        {
+            return 0;
+        }
+    }
+
+  
+>>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
 }
