@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "bqUADek4Px/tD7Scpr5WvhWfUkXxXrqbF5oNlK5yA++TqKcXeIzSH72oyjiKkZzmsOGWCnOtgfaSPbFRTje56Q==",
   "success": true,
   "projectFilePath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.EntityTestConsole\\DDDWorkShop.EntityTestConsole.csproj",
-=======
-  "dgSpecHash": "4suhrQWB2Cegc04c7+4LAAlqljW3adotBsiih7sxHjn3FweB3WCEzTbCkh1vbzFnGhk4SftlkKJEVPutcTfMdA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\SH\\Desktop\\BootCamp\\Sample-DDD\\Sample-Codes-DDD-Tactical\\DDDWorkShop.EntityTestConsole\\DDDWorkShop.EntityTestConsole.csproj",
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
   "expectedPackageFiles": [],
   "logs": []
 }

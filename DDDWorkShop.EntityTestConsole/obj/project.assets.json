@@ -28,17 +28,12 @@
   },
   "packageFolders": {
     "C:\\Users\\SH\\.nuget\\packages\\": {},
-<<<<<<< HEAD
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
-=======
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.EntityTestConsole\\DDDWorkShop.EntityTestConsole.csproj",
       "projectName": "DDDWorkShop.EntityTestConsole",
       "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.EntityTestConsole\\DDDWorkShop.EntityTestConsole.csproj",
@@ -48,16 +43,6 @@
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-=======
-      "projectUniqueName": "C:\\Users\\SH\\Desktop\\BootCamp\\Sample-DDD\\Sample-Codes-DDD-Tactical\\DDDWorkShop.EntityTestConsole\\DDDWorkShop.EntityTestConsole.csproj",
-      "projectName": "DDDWorkShop.EntityTestConsole",
-      "projectPath": "C:\\Users\\SH\\Desktop\\BootCamp\\Sample-DDD\\Sample-Codes-DDD-Tactical\\DDDWorkShop.EntityTestConsole\\DDDWorkShop.EntityTestConsole.csproj",
-      "packagesPath": "C:\\Users\\SH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SH\\Desktop\\BootCamp\\Sample-DDD\\Sample-Codes-DDD-Tactical\\DDDWorkShop.EntityTestConsole\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
       ],
       "configFilePaths": [
         "C:\\Users\\SH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,23 +54,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-<<<<<<< HEAD
         "D:\\Repo\\HRM-NEW\\HRM-Packages": {},
-=======
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-<<<<<<< HEAD
             "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDEorkShop.Entities\\DDDEorkShop.Entities.csproj": {
               "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDEorkShop.Entities\\DDDEorkShop.Entities.csproj"
-=======
-            "C:\\Users\\SH\\Desktop\\BootCamp\\Sample-DDD\\Sample-Codes-DDD-Tactical\\DDDEorkShop.Entities\\DDDEorkShop.Entities.csproj": {
-              "projectPath": "C:\\Users\\SH\\Desktop\\BootCamp\\Sample-DDD\\Sample-Codes-DDD-Tactical\\DDDEorkShop.Entities\\DDDEorkShop.Entities.csproj"
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
             }
           }
         }

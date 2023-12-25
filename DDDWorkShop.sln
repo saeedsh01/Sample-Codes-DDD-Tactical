@@ -9,13 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.ValueObjectsTes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDEorkShop.Entities", "DDDEorkShop.Entities\DDDEorkShop.Entities.csproj", "{7AB2E364-4393-4FDB-A7FD-3633D570A612}"
 EndProject
-<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.EntityTestConsole", "DDDWorkShop.EntityTestConsole\DDDWorkShop.EntityTestConsole.csproj", "{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.DomainServices.DoubleDispatch", "DDDWorkShop.DomainServices.DoubleDispatch\DDDWorkShop.DomainServices.DoubleDispatch.csproj", "{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.EntityTestConsole", "DDDWorkShop.EntityTestConsole\DDDWorkShop.EntityTestConsole.csproj", "{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}"
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.DomainServices.DoubleDispatch", "DDDWorkShop.DomainServices.DoubleDispatch\DDDWorkShop.DomainServices.DoubleDispatch.csproj", "{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainEvents", "DomainEvents", "{E3A81777-5B9D-4D44-A292-65E0FB7129EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.DomainEvents.Framworks", "DDDWorkShop.DomainEvents.Framworks\DDDWorkShop.DomainEvents.Framworks.csproj", "{A225E512-E505-4668-B9E7-CA64F2971EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.DomainEvents.CoreDomain", "DDDWorkShop.DomainEvents.CoreDomain\DDDWorkShop.DomainEvents.CoreDomain.csproj", "{C55D664C-94F7-4FA6-8388-A2A00ABF8E76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.DomainEvents.ApplicationService", "DDDWorkShop.DomainEvents.ApplicationService\DDDWorkShop.DomainEvents.ApplicationService.csproj", "{021F75EE-79C9-4E77-9D4C-647CE0FDD7A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.DomainEvents.EndPoint", "DDDWorkShop.DomainEvents.EndPoint\DDDWorkShop.DomainEvents.EndPoint.csproj", "{9A318025-F411-47F1-917F-4E14B91BF2F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,16 +45,35 @@ Global
 		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
 		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
+		{A225E512-E505-4668-B9E7-CA64F2971EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A225E512-E505-4668-B9E7-CA64F2971EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A225E512-E505-4668-B9E7-CA64F2971EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A225E512-E505-4668-B9E7-CA64F2971EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55D664C-94F7-4FA6-8388-A2A00ABF8E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55D664C-94F7-4FA6-8388-A2A00ABF8E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55D664C-94F7-4FA6-8388-A2A00ABF8E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55D664C-94F7-4FA6-8388-A2A00ABF8E76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021F75EE-79C9-4E77-9D4C-647CE0FDD7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021F75EE-79C9-4E77-9D4C-647CE0FDD7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021F75EE-79C9-4E77-9D4C-647CE0FDD7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021F75EE-79C9-4E77-9D4C-647CE0FDD7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A318025-F411-47F1-917F-4E14B91BF2F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A318025-F411-47F1-917F-4E14B91BF2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A318025-F411-47F1-917F-4E14B91BF2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A318025-F411-47F1-917F-4E14B91BF2F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A225E512-E505-4668-B9E7-CA64F2971EF0} = {E3A81777-5B9D-4D44-A292-65E0FB7129EF}
+		{C55D664C-94F7-4FA6-8388-A2A00ABF8E76} = {E3A81777-5B9D-4D44-A292-65E0FB7129EF}
+		{021F75EE-79C9-4E77-9D4C-647CE0FDD7A3} = {E3A81777-5B9D-4D44-A292-65E0FB7129EF}
+		{9A318025-F411-47F1-917F-4E14B91BF2F3} = {E3A81777-5B9D-4D44-A292-65E0FB7129EF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {362FE06B-5F34-41E9-967E-BF2A5ADFDDA2}

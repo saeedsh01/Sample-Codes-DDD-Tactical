@@ -12,25 +12,11 @@ namespace DDDEorkShop.Entities.StatePattern
     }
     public class OnStatus : TvPowerAction
     {
-        public string Status()
-        {
-            return "Off";
-        }
-<<<<<<< HEAD
-=======
-
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
+        public string Status() => "Off";
     }
     public class OffStatus : TvPowerAction
     {
-        public string Status()
-        {
-            return "On";
-        }
-<<<<<<< HEAD
-=======
-
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
+        public string Status() => "On";        
     }
     public class TV
     {       

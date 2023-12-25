@@ -1,0 +1,5 @@
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.Frameworks\obj\Debug\net8.0\DDDWorkShop.DomainEvents.Frameworks.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.Frameworks\obj\Debug\net8.0\DDDWorkShop.DomainEvents.Frameworks.AssemblyInfoInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.Frameworks\obj\Debug\net8.0\DDDWorkShop.DomainEvents.Frameworks.AssemblyInfo.cs
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.Frameworks\obj\Debug\net8.0\DDDWorkShop.DomainEvents.Frameworks.csproj.CoreCompileInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.Frameworks\obj\Debug\net8.0\DDDWorkShop.DomainEvents.Frameworks.sourcelink.json
