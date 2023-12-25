@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DDDWorkShop.DomainEvents.Framworks/1.0.0": {
+        "runtime": {
+          "DDDWorkShop.DomainEvents.Framworks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDWorkShop.DomainEvents.Framworks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

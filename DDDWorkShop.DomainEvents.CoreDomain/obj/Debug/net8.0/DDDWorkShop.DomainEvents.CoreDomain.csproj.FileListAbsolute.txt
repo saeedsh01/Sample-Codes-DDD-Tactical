@@ -1,0 +1,16 @@
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\bin\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.deps.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\bin\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\bin\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\bin\Debug\net8.0\DDDWorkShop.DomainEvents.Framworks.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\bin\Debug\net8.0\DDDWorkShop.DomainEvents.Framworks.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.csproj.AssemblyReference.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.AssemblyInfoInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.AssemblyInfo.cs
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.csproj.CoreCompileInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.sourcelink.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.csproj.CopyComplete
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\refint\DDDWorkShop.DomainEvents.CoreDomain.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\DDDWorkShop.DomainEvents.CoreDomain.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainEvents.CoreDomain\obj\Debug\net8.0\ref\DDDWorkShop.DomainEvents.CoreDomain.dll
