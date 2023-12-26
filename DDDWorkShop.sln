@@ -3,50 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.ValueObjects", "DDDWorkShop.ValueObjects\DDDWorkShop.ValueObjects.csproj", "{1CC242D2-0853-4F2C-9363-9CBA07994483}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.ValueObjectsTestConsole", "DDDWorkShop.ValueObjectsTestConsole\DDDWorkShop.ValueObjectsTestConsole.csproj", "{D2206BA9-F00D-4280-8C81-0F245140230C}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDEorkShop.Entities", "DDDEorkShop.Entities\DDDEorkShop.Entities.csproj", "{7AB2E364-4393-4FDB-A7FD-3633D570A612}"
-EndProject
-<<<<<<< HEAD
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDWorkShop.EntityTestConsole", "DDDWorkShop.EntityTestConsole\DDDWorkShop.EntityTestConsole.csproj", "{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.DomainServices.DoubleDispatch", "DDDWorkShop.DomainServices.DoubleDispatch\DDDWorkShop.DomainServices.DoubleDispatch.csproj", "{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDWorkShop.EntityTestConsole", "DDDWorkShop.EntityTestConsole\DDDWorkShop.EntityTestConsole.csproj", "{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}"
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1CC242D2-0853-4F2C-9363-9CBA07994483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1CC242D2-0853-4F2C-9363-9CBA07994483}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1CC242D2-0853-4F2C-9363-9CBA07994483}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1CC242D2-0853-4F2C-9363-9CBA07994483}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D2206BA9-F00D-4280-8C81-0F245140230C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2206BA9-F00D-4280-8C81-0F245140230C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2206BA9-F00D-4280-8C81-0F245140230C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2206BA9-F00D-4280-8C81-0F245140230C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7AB2E364-4393-4FDB-A7FD-3633D570A612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7AB2E364-4393-4FDB-A7FD-3633D570A612}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7AB2E364-4393-4FDB-A7FD-3633D570A612}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7AB2E364-4393-4FDB-A7FD-3633D570A612}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47B770AB-2FCD-4C51-ADF7-4F0F13BDB785}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
-		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B8AB0D65-0894-43CE-A5CD-A72F3A209E39}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
->>>>>>> fd059b9438861a59ad3c62f08a7fa4215e5f5f9f
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
