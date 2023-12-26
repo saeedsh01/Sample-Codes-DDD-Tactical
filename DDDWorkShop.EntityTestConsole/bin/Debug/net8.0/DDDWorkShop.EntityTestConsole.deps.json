@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DDDWorkShop.EntityTestConsole/1.0.0": {
+        "dependencies": {
+          "DDDWorkShop.Entities": "1.0.0"
+        },
+        "runtime": {
+          "DDDWorkShop.EntityTestConsole.dll": {}
+        }
+      },
+      "DDDWorkShop.Entities/1.0.0": {
+        "runtime": {
+          "DDDWorkShop.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDWorkShop.EntityTestConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDDWorkShop.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

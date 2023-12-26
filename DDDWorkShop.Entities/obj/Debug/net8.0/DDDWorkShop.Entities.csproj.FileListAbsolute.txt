@@ -1,0 +1,12 @@
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\bin\Debug\net8.0\DDDWorkShop.Entities.deps.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\bin\Debug\net8.0\DDDWorkShop.Entities.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\bin\Debug\net8.0\DDDWorkShop.Entities.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\DDDWorkShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\DDDWorkShop.Entities.AssemblyInfoInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\DDDWorkShop.Entities.AssemblyInfo.cs
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\DDDWorkShop.Entities.csproj.CoreCompileInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\DDDWorkShop.Entities.sourcelink.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\DDDWorkShop.Entities.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\refint\DDDWorkShop.Entities.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\DDDWorkShop.Entities.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.Entities\obj\Debug\net8.0\ref\DDDWorkShop.Entities.dll

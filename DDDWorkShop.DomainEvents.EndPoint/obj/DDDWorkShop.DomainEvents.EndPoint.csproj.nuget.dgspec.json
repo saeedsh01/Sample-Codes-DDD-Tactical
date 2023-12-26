@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.EndPoint\\DDDWorkShop.DomainEvents.EndPoint.csproj": {}
+  },
+  "projects": {
+    "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.ApplicationService\\DDDWorkShop.DomainEvents.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.ApplicationService\\DDDWorkShop.DomainEvents.ApplicationService.csproj",
+        "projectName": "DDDWorkShop.DomainEvents.ApplicationService",
+        "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.ApplicationService\\DDDWorkShop.DomainEvents.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\SH\\.nuget\\packages\\",
+        "outputPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Repo\\HRM-NEW\\HRM-Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.CoreDomain\\DDDWorkShop.DomainEvents.CoreDomain.csproj": {
+                "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.CoreDomain\\DDDWorkShop.DomainEvents.CoreDomain.csproj"
+              },
+              "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj": {
+                "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.CoreDomain\\DDDWorkShop.DomainEvents.CoreDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.CoreDomain\\DDDWorkShop.DomainEvents.CoreDomain.csproj",
+        "projectName": "DDDWorkShop.DomainEvents.CoreDomain",
+        "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.CoreDomain\\DDDWorkShop.DomainEvents.CoreDomain.csproj",
+        "packagesPath": "C:\\Users\\SH\\.nuget\\packages\\",
+        "outputPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.CoreDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Repo\\HRM-NEW\\HRM-Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj": {
+                "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.EndPoint\\DDDWorkShop.DomainEvents.EndPoint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.EndPoint\\DDDWorkShop.DomainEvents.EndPoint.csproj",
+        "projectName": "DDDWorkShop.DomainEvents.EndPoint",
+        "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.EndPoint\\DDDWorkShop.DomainEvents.EndPoint.csproj",
+        "packagesPath": "C:\\Users\\SH\\.nuget\\packages\\",
+        "outputPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.EndPoint\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Repo\\HRM-NEW\\HRM-Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.ApplicationService\\DDDWorkShop.DomainEvents.ApplicationService.csproj": {
+                "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.ApplicationService\\DDDWorkShop.DomainEvents.ApplicationService.csproj"
+              },
+              "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj": {
+                "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj",
+        "projectName": "DDDWorkShop.DomainEvents.Framworks",
+        "projectPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\DDDWorkShop.DomainEvents.Framworks.csproj",
+        "packagesPath": "C:\\Users\\SH\\.nuget\\packages\\",
+        "outputPath": "D:\\SampleProject\\Sample-Codes-DDD-Tactical\\DDDWorkShop.DomainEvents.Framworks\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Repo\\HRM-NEW\\HRM-Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

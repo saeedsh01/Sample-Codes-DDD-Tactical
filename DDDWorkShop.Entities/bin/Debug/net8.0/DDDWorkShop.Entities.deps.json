@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DDDWorkShop.Entities/1.0.0": {
+        "runtime": {
+          "DDDWorkShop.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDDWorkShop.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

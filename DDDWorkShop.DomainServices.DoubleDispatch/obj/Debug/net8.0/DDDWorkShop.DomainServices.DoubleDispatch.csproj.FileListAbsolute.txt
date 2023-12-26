@@ -1,0 +1,15 @@
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\bin\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.exe
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\bin\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.deps.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\bin\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.runtimeconfig.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\bin\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\bin\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.AssemblyInfoInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.AssemblyInfo.cs
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.csproj.CoreCompileInputs.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.sourcelink.json
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\refint\DDDWorkShop.DomainServices.DoubleDispatch.dll
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.pdb
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\DDDWorkShop.DomainServices.DoubleDispatch.genruntimeconfig.cache
+D:\SampleProject\Sample-Codes-DDD-Tactical\DDDWorkShop.DomainServices.DoubleDispatch\obj\Debug\net8.0\ref\DDDWorkShop.DomainServices.DoubleDispatch.dll
